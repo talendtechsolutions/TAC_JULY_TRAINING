@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_cC3aAYmMEeiyCpCqr1U1hw" label="NINE_AM_JULY_BATCH" description="NINE_AM_JULY_BATCH" language="java" technicalLabel="NINE_AM_JULY_BATCH" creationDate="2018-07-13T08:12:44.595+0530" author="_cC3aAomMEeiyCpCqr1U1hw" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/talendtechsolutions/TAC_JULY_TRAINING.git&quot;,&quot;login&quot;:&quot;talendsolutions@gmail.com&quot;,&quot;passwd&quot;:&quot;PVabmAFXYDan9s8r1Lakuw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" bigData="false">
+  <TalendProperties:Project xmi:id="_cC3aAYmMEeiyCpCqr1U1hw" label="NINE_AM_JULY_BATCH" description="NINE_AM_JULY_BATCH" language="java" technicalLabel="NINE_AM_JULY_BATCH" creationDate="2018-07-13T08:12:44.595+0530" author="_cC3aAomMEeiyCpCqr1U1hw" productVersion="Talend Data Integration-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/talendtechsolutions/TAC_JULY_TRAINING.git&quot;,&quot;login&quot;:&quot;talendsolutions@gmail.com&quot;,&quot;passwd&quot;:&quot;PVabmAFXYDan9s8r1Lakuw==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+    <technicalStatus xmi:id="_coE_4ImMEeiyCpCqr1U1hw" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_coE_4YmMEeiyCpCqr1U1hw" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_coFm8ImMEeiyCpCqr1U1hw" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_cnE6UImMEeiyCpCqr1U1hw" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_cnE6UYmMEeiyCpCqr1U1hw" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_cnE6UomMEeiyCpCqr1U1hw" label="validated" code="VAL"/>
     <migrationTask xmi:id="_cj8t0ImMEeiyCpCqr1U1hw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cj8t0YmMEeiyCpCqr1U1hw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_cj8t0omMEeiyCpCqr1U1hw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
