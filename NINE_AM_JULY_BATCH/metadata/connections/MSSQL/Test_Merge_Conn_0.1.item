@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_31luYIseEeiITt4g5ZGIVQ" name="Test_Merge_Conn" id="_OolagIseEeiITt4g5ZGIVQ" label="Test_Merge_Conn" dataPackage="_39WjQIseEeiITt4g5ZGIVQ" DatabaseType="Microsoft SQL Server" DriverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver" URL="jdbc:sqlserver://localhost:1433;DatabaseName=test_merge;" dbVersionString="MSSQL_PROP" Port="1433" Username="sa" Password="TDYhYB9tYws=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="test_merge" SqlSynthax="SQL Syntax" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+    <taggedValue xmi:id="_31luYYseEeiITt4g5ZGIVQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_327LIIseEeiITt4g5ZGIVQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_33E8IIseEeiITt4g5ZGIVQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_33E8IYseEeiITt4g5ZGIVQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_33E8IoseEeiITt4g5ZGIVQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_33E8I4seEeiITt4g5ZGIVQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_33E8JIseEeiITt4g5ZGIVQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_33E8JYseEeiITt4g5ZGIVQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_33-UAIseEeiITt4g5ZGIVQ" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_33-UAYseEeiITt4g5ZGIVQ" tag="DB ProductVersion" value="12.00.2269"/>
+    <taggedValue xmi:id="_33-UAoseEeiITt4g5ZGIVQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_31luYoseEeiITt4g5ZGIVQ" key="CONN_PARA_KEY_USERNAME" value="sa"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_39WjQIseEeiITt4g5ZGIVQ" name="test_merge" dataManager="_31luYIseEeiITt4g5ZGIVQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_39XKUIseEeiITt4g5ZGIVQ" name="dbo"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
