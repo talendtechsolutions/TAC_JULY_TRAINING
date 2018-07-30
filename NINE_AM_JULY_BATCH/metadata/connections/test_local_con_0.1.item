@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_5l1D0JOsEeiEq8-El7Ihow" name="test_local_con" id="_xyr3oJOsEeiEq8-El7Ihow" label="test_local_con" dataPackage="_5pXgAJOsEeiEq8-El7Ihow" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/amc?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="NZNgK6DuncI=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="amc" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_5l1D0ZOsEeiEq8-El7Ihow" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_5mubsJOsEeiEq8-El7Ihow" tag="package filter" value=""/>
+    <taggedValue xmi:id="_5m3loJOsEeiEq8-El7Ihow" tag="Status" value=""/>
+    <taggedValue xmi:id="_5m3loZOsEeiEq8-El7Ihow" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_5m3lopOsEeiEq8-El7Ihow" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_5m3lo5OsEeiEq8-El7Ihow" tag="Description" value=""/>
+    <taggedValue xmi:id="_5m3lpJOsEeiEq8-El7Ihow" tag="Author" value=""/>
+    <taggedValue xmi:id="_5m3lpZOsEeiEq8-El7Ihow" tag="otherParameter"/>
+    <taggedValue xmi:id="_5nURkJOsEeiEq8-El7Ihow" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_5nURkZOsEeiEq8-El7Ihow" tag="DB ProductVersion" value="5.5.56"/>
+    <taggedValue xmi:id="_5nURkpOsEeiEq8-El7Ihow" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_5l1D0pOsEeiEq8-El7Ihow" key="CONN_PARA_KEY_USERNAME" value="root"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_5pXgAJOsEeiEq8-El7Ihow" name="amc" dataManager="_5l1D0JOsEeiEq8-El7Ihow"/>
+</xmi:XMI>
