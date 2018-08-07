@@ -234,7 +234,7 @@
     <elementParameter field="TEXT" name="LIMIT" value=""/>
     <elementParameter field="CHECK" name="REMOVE_EMPTY_ROW" value="true"/>
     <elementParameter field="CHECK" name="UNCOMPRESS" value="false"/>
-    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="false"/>
+    <elementParameter field="CHECK" name="DIE_ON_ERROR" value="true"/>
     <elementParameter field="DIRECTORY" name="TEMP_DIR" value="&quot;D:/talend_pro/tis/502/studio/Talend-Studio-r78327-V5.0.2/workspace&quot;" show="false"/>
     <elementParameter field="CHECK" name="ADVANCED_SEPARATOR" value="false"/>
     <elementParameter field="TEXT" name="THOUSANDS_SEPARATOR" value="&quot;,&quot;" show="false"/>
