@@ -200,7 +200,7 @@
       <column comment="" key="false" length="10" name="test_dy" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="10" usefulColumn="true"/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties shellMaximized="true"/>
+      <uiProperties/>
       <varTables sizeState="INTERMEDIATE" name="Var" minimized="true"/>
       <outputTables sizeState="INTERMEDIATE" name="dynamic_load">
         <mapperTableEntries name="test_dynamic" expression="row1.test_dynamic " type="id_Dynamic" nullable="true"/>
